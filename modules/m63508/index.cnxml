@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Price Elasticity of Demand and Price Elasticity of Supply</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63508</md:content-id>
+  <md:title>Price Elasticity of Demand and Price Elasticity of Supply</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Calculate the price elasticity of demand</item>
+<item>Calculate the price elasticity of supply</item>
+</list></md:abstract>
+  <md:uuid>e11e77a3-a2ce-4a08-9025-83c51331b104</md:uuid>
+</metadata>
+
+<content>
+
+<code id="eip-997" display="block"><media id="x262" alt="The graph shows a downward sloping line that represents the price elasticity of demand.">
+<image mime-type="image/jpg" src="../../media/elasticman.jpeg"/>
+</media><caption><term>Figure 1.</term> Econman demonstrates that the concept of "elasticity" in economics is not as frightening as it looks.</caption></code><para id="delete_me">Both the demand and supply curve show the relationship between price and the number of units demanded or supplied. <term>Price elasticity</term> is the ratio between the percentage change in the quantity demanded (Qd) or supplied (Qs) and the corresponding percent change in price. The <term>price elasticity of demand</term> is the percentage change in the quantity <emphasis effect="italics">demanded</emphasis> of a good or service divided by the percentage change in the price. The <term>price elasticity of supply</term> is the percentage change in quantity <emphasis effect="italics">supplied</emphasis> divided by the percentage change in price.</para><para id="fs-idp21961264">Elasticities can be usefully divided into three broad categories: elastic, inelastic, and unitary. An <term>elastic demand</term> or <term>elastic supply</term> is one in which the elasticity is greater than one, indicating a high responsiveness to changes in price. Elasticities that are less than one indicate low responsiveness to price changes and correspond to <term>inelastic demand</term> or <term>inelastic supply</term>. <term>Unitary elasticities</term> indicate proportional responsiveness of either demand or supply, as summarized in Table 1.</para><table id="Table_05_01" summary="If percentage change in quantity is greater than percentage change in price then percentage change in quantity divided by percentage change in price is greater than 1, and it is called “Elastic.” If percentage change in quantity is equal to percentage change in price then percentage change in quantity divided by percentage change in price is equal to 1, and it is called “Unitary.” If percentage change in quantity is less than percentage change in price then percentage change in quantity divided by percentage change in price is less than 1, and it is called “Inelastic.”">
+   <tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+	<entry>If . . .</entry>
+	<entry>Then . . .</entry>
+	<entry>And It Is Called . . .</entry>
+
+</row>
+</thead>
+
+      <tbody>
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% change in quantity</mtext><mo>&gt;</mo><mtext>% change in price</mtext></math></entry>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% change in quantity</mtext></mrow><mrow><mtext>% change in price</mtext></mrow></mfrac><mo>&gt;</mo><mn>1</mn></math></entry>
+          <entry> Elastic </entry>
+        </row>
+
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% change in quantity</mtext><mo>=</mo><mtext>% change in price</mtext></math></entry>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% change in quantity</mtext></mrow><mrow><mtext>% change in price</mtext></mrow></mfrac><mo>=</mo><mn>1</mn></math></entry>
+          <entry> Unitary </entry>
+        </row>
+
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% change in quantity</mtext><mo>&lt;</mo><mtext>% change in price</mtext></math></entry>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% change in quantity</mtext></mrow><mrow><mtext>% change in price</mtext></mrow></mfrac><mo>&lt;</mo><mn>1</mn></math></entry>
+          <entry> Inelastic </entry>
+        </row>
+      </tbody>
+
+    </tgroup>
+    <caption>Elastic, Inelastic, and Unitary: Three Cases of Elasticity</caption>
+
+</table>
+<para id="eip-848"><title>Two different ways of calculating elasticity</title></para><equation id="eip-829"><title>The point elasticity formula</title>Elasticity = (% change in quantity/% change in price) x 100 
+</equation><para id="eip-31">where % change is calculated as [(Q2 - Q1)/Q1] x 100 and % change in price is calculated as [(P2 - P1)/P1] x 100 with reference to the diagrams below in Figure 2.</para><code id="eip-525" display="block"><media id="fs-idm00000027" alt="The graph shows a downward sloping line that represents the price elasticity of demand.">
+<image mime-type="image/jpg" src="../../media/elasticity1.06.04"/>
+</media><caption><term>Figure 2.</term></caption></code><para id="eip-239">So a price increase from P1 to p2 will result in a change in quantity demanded from Q1 to Q2 (whether demand or supply). The point elasticity value for this elasticity calculation (whether price elasticity of demand or price elasticity of supply) will be the value of the relevant elasticity coefficient at point c on the demand or supply curves (depending on which point elasticity is being computed). So this price elasticity formula gives the elasticity values at the points from which quantity changes in response to price changes.</para><para id="fs-idm47543904"><title>The midpoint elasticity formula</title>The point elasticity formula will give slightly different elasticity values depending on the direction of change in price and quantity. So, for example, if price decreases from P2 tp P1, quantity will increase from Q1 to Q2. Even though the absolute sizes of the price and quantity changes are the same as for a price increase, the percent changes in these values will be different simply because their starting values (bases) are different and this will give different elasticity values. A way of getting around this problem is to calculate the elasticity at the midpoint between price and quantity changes on a demand or supply curve (if we are interested in price elasticity). So , instead of using simple percentage changes in quantity and price, economists use the average percent change in both quantity and price. This is called the Midpoint Method for Elasticity, and is represented in the following equations:
+</para><equation id="eip-919"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:msub><m:mi mathvariant="normal">Q</m:mi><m:mn>2</m:mn></m:msub><m:mo>–</m:mo><m:mo/><m:msub><m:mi mathvariant="normal">Q</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:mfenced><m:mrow><m:msub><m:mi mathvariant="normal">Q</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mo> </m:mo><m:msub><m:mi mathvariant="normal">Q</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfenced><m:mn>/2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>% change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:msub><m:mi mathvariant="normal">P</m:mi><m:mn>2</m:mn></m:msub><m:mo>–</m:mo><m:mo> </m:mo><m:msub><m:mi mathvariant="normal">P</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:mfenced><m:mrow><m:msub><m:mi mathvariant="normal">P</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mo> </m:mo><m:msub><m:mi mathvariant="normal">P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfenced><m:mn>/2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr></m:mtable><m:mo> </m:mo></m:math></equation><para id="eip-851">These values are then inserted into the standard price elasticity formula: Elasticity = (% change in quantity demanded / % change in price) x 100.</para><para id="fs-idm24209232">So a price increase from P1 to P2 will yield the same elasticity value as for a price decrease from P2 to P1 (unlike point elasticity which will give slightly different values). The advantage of the <term class="no-emphasis">Midpoint Method</term> then is that one obtains the same elasticity value between two price points (at point b on the diagrams above) whether there is a price increase or decrease. This is because the formula uses the same base for both cases.</para><section id="fs-idm7067040">
+<title>Calculating Price Elasticity of Demand</title><para id="fs-idm52866832">Let’s calculate the elasticity between points A and B shown in Figure 3. We will first do this according to the point elasticity formula and then subsequently we will recalculate price elasticity of demand using the midpoint formula (just for demonstration purposes).</para><code id="eip-952" display="block"><title>Demand for Lukhanyo Mdingi Men's T-shirts</title><media id="x267" alt="The graph shows a downward sloping line that represents the price elasticity of demand.">
+<image mime-type="image/jpg" src="../../media/elasticity2.06.1.jpeg"/>
+</media><caption><term>Figure 3.</term> </caption></code><para id="eip-33"><title>Point elasticity computation at point A</title>The direction of change matters for point elasticity computations. So our point elasticity calculations in this chapter will be for price increases in each case. From point A to point B price increases by R10 per shirt and quantity demanded of shirts decreases by 200 shirts per annum from 3000 to 2800. </para><para id="eip-127">% change in price = [(P2-P1)/P1] x 100 = [(R70 - R60)/R60] x 100 = 16.7%</para><para id="eip-523">% change in quantity demanded = [(Q2-Q1)/Q1] x 100 = [(2800 - 3000)/3000] x 100 = -6.7%</para><para id="eip-74">Price elasticity of demand (Ep) = % change in quantity demanded/% change in price = -6.7%/167% = -0.4</para><para id="fs-idm8831936"><title>The midpoint elasticity computation between points A and B</title>The direction of change does not matter with the midpoint formula. So whether price is increased or decreased it will yield the same elasticity value. Let's apply the formula to calculate the elasticity as price decreases from R70 at point B to R60 at point A:</para><equation id="eip-188"><m:math><m:mtable columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>3,000</m:mn><m:mo>–</m:mo><m:mn>2,800</m:mn></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>3,000</m:mn><m:mo>+</m:mo><m:mn>2,800</m:mn><m:mo>)</m:mo><m:mo>/2</m:mo></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>200</m:mn><m:mn>2,900</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>6.9</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>% change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>60</m:mn><m:mo>–</m:mo><m:mn>70</m:mn></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>60</m:mn><m:mo>+</m:mo><m:mn>70</m:mn><m:mo>)</m:mo><m:mn>/2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–10</m:mn></m:mrow><m:mn>65</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>–15.4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Price Elasticity of Demand</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>    6.9%</m:mn></m:mrow><m:mrow><m:mn>–15.4%</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>-0.45</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm46864880">Therefore, the elasticity of demand between these two points is <m:math><m:mfrac><m:mrow><m:mn>    6.9%</m:mn></m:mrow><m:mrow><m:mo/><m:mn>–15.4%</m:mn></m:mrow></m:mfrac></m:math> which is -0.45, an amount smaller than one, showing that the demand is inelastic in this interval. Note that this value is slightly higher than the point elasticity value at point A = -0.4 in absolute terms (ignoring the negative sign). Price elasticities of demand are <emphasis effect="italics">always</emphasis> negative since price and quantity demanded always move in opposite directions (on the demand curve). It is generally accepted that price elasticities are given as positive values unless they have a value of zero. So mathematically, we take the absolute value (i.e. we ignore the negative sign) of the result. Always remember to interpret price elasticities as positive numbers!</para><para id="fs-idm10131488">For the midpoint elasticity value this means that, along the demand curve between point B and A, if the price falls by 1%, the quantity demanded will increase by 0.45% (by less than of the price change). For the point elasticity value an increase in price will result in a 0.4% decline in quantity demanded. In both cases, a change in the price will result in a smaller percentage change in the quantity demanded.  Price elasticities of demand are negative numbers indicating that the demand curve is downward sloping, but are read as absolute values.  The following Work It Out feature will walk you through calculating the price elasticity of demand.</para><para id="eip-845"><title>Elasticity values do not have units of measurement</title>Another important point to remember about elasticity values is that they do not have units of measurement (e.g. Rands, percent etc.) since they are the product of percent changes. So elasticity values are simply coefficients (numbers or values) that measure by what fraction or multiple of price (in the case of price elasticity) quantity will change when price changes. Elasticity values are measured and interpreted with reference to the elasticity scale. Thus if elasticity exceeds 1 demand or supply is elastic, if elasticity is less than 1 demand or supply is inelastic and if elasticity = 1 demand or supply is unitary elastic. </para><para id="eip-397"><title>Point elasticity computation at point B</title>It would be interesting to see how different the point elasticity value will be if we reverse the direction of the price change from B to A. In this case price falls from R70 per shirt to R60 per shirt and quantity demanded increases from 2800 to 3000 per annum. First we calculate the percent changes in price and quantities demanded. </para><para id="eip-607">% change in price = [(P2-P1)/P1] x 100 = [(R60 - R70)/R70] x 100 = -14.3%. P1 = R70 is now the starting price (the base) since it was stipulated that price falls from R70 to R60.</para><para id="eip-758">% change in quantity demanded = [(Q2-Q1)/Q1] x 100 = [(3000 - 2800)/2800] x 100 = 7.1%. Note that Q1 = 2800 is now the base since quantity demanded falls from 2800 to 3000 shirts per annum. </para><para id="eip-765">Price elasticity of demand (Ep) = % change in quantity demanded/% change in price = 7.1%/-14.3% = -0.5. </para><para id="eip-160">The midpoint elasticity value (midway between points A and B) should simply be the average of the point elasticity values at points A and B. So (-0.4+-0.5)/2 = -0.45. This is indeed the price elasticity of demand value computed using the midpoint formula!</para></section>
+<section id="fs-idp9020112">
+<title>Calculating the Price Elasticity of Supply</title><para id="fs-idp11618672">Assume that a letting agency rents out student accommodation for R650 per month and at that price 10,000 units are rented each year as shown in Figure 4. When the price increases to R700 per month, 13,000 units are supplied into the market. By what percentage does apartment supply increase? What is the price sensitivity? That is, how will quantity supplied of accommodation  respond to change in price of accommodation?</para><code id="eip-795" display="block"><media id="x266" alt="The graph shows an upward sloping line that represents the supply of apartment rentals.">
+<image mime-type="image/jpg" src="../../media/elasticity3.06.04"/></media><caption><term>Figure 4:</term> The price elasticity of supply is calculated as the percentage change in quantity divided by the percentage change in price.</caption></code><para id="eip-146">Price elasticity of supply is computed in exactly the same way as price elasticity of demand with the only difference being that our focus is supply and not demand. So price elasticity of supply (Es) = % change in quantity supplied / % change in price. The resulting elasticity coefficients are interpreted in exactly the same way as price elasticity of demand coefficients. So if Es exceeds 1 then supply is elastic, if Es is less than 1 supply is inelastic and if Es = 1 supply is unitary elastic.</para><para id="eip-939">Using the <term class="no-emphasis">Point elasticity Method</term>,</para><para id="eip-776">First we calculate % change in price = [(P2-P1)/P1] x 100 = [(R700 - R660)/R650] x 100 = 7.7%</para><para id="eip-814">Next we calculate % change in quantity demanded = [(Q2-Q1)/Q1] x 100 = [(13 000 - 10 000)/10 000] x 100 = 30%</para><para id="eip-676">Price elasticity of supply (Es) = % change in quantity supplied/% change in price = 30%/7.7% = 3.9. Supply is elastic.</para><para id="fs-idm28012240">Again, as with the elasticity of demand, the elasticity of supply is not followed by any units. It is a point worth repeating: Elasticity is a ratio of one percentage change to another percentage change—nothing more—and is read as an absolute value. It is worth noting, however, that elasticity of supply coefficients are generally positive due the law of supply (increase in price results in increase in quantity demanded). In this case, a 1% rise in price causes an increase in quantity supplied of 3.9%. The greater than one elasticity of supply means that the percentage change in quantity supplied will be greater than a one percent price change. If you're starting to wonder if the concept of slope fits into this calculation, read the following Clear It Up box.</para><note id="fs-idm35334384" class="economics clearup"><title>Is the elasticity the slope?</title><para id="fs-idm9625696">It is a common mistake to confuse the slope of either the supply or demand curve with its elasticity. The slope is the rate of change in units along the curve, or the rise/run (change in y over the change in x). For example, each point on the demand for Lukhanyo Mdingi shirts indicates price intervals (changes) of R10 and the number of shirts demanded in 200 unit intervals. So the slope is –10/200 along the entire demand curve and does not change. The price elasticity, however, changes along the curve. Elasticity between points A and B is 0.45 while at point A it is 0.4 and at point B it is 0.5. So elasticity values are not constant along a straight line demand or supply curve whereas slope of a straight line is always constant (the same). Elasticity is the <emphasis effect="italics">percentage</emphasis> change, which is a different calculation from the slope and has a different meaning.</para><para id="eip-88">When we are at the upper end of a demand curve (such as at points G and H on the demand for Lukhanyo Mdingi shirts), where price is high and the quantity demanded is low, a small change in the quantity demanded, even in, say, one unit, is pretty big in percentage terms. A change in price of, say, R10 per shirt, is going to be much less important in percentage terms than it would have been at the bottom of the demand curve. Likewise, at the bottom of the demand curve, a 200 unit change when the quantity demanded is high will be small as a percentage of a high quantity demanded. 
+
+</para><para id="eip-927">So, at the top end of the demand curve (at relatively high prices), where we have a large percentage change in quantity demanded over a small percentage change in price, the elasticity values would be high, or demand would be relatively elastic (Ep greater than 1). Even with the same change in the price and the same change in the quantity demanded, at the bottom end of the demand curve the quantity is much higher, and the price is much lower, so the percentage change in quantity demanded is smaller and the percentage change in price is much higher. That means at the bottom of the curve we'd have a small numerator over a large denominator, so the elasticity measure would be much lower, or inelastic (Ep less than 1). And guess what? At the very middle point of every straight line demand curve the elasticity of demand value will always equal 1 (Ep = 1)!
+
+</para><para id="eip-326">As we move along the demand curve, the values for quantity and price go up or down, depending on which way we are moving, so the percentages for, say, a R1 difference in price or a one unit difference in quantity, will change as well, which means the ratios of those percentages will change. Which is why elasticity values change along the demand and supply curves.</para></note></section>
+<section id="fs-idp17381808" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp10316160">Price elasticity measures the responsiveness of the quantity demanded or supplied of a good to a change in its price. It is computed as the percentage change in quantity demanded (or supplied) divided by the percentage change in price. Elasticity can be described as elastic (or very responsive), unitary elastic, or inelastic (not very responsive). Elastic demand or supply curves indicate that quantity demanded or supplied respond to price changes in a greater than proportional manner. An inelastic demand or supply curve is one where a given percentage change in price will cause a smaller percentage change in quantity demanded or supplied. A unitary elasticity means that a given percentage change in price leads to an equal percentage change in quantity demanded or supplied.</para></section>
+<section id="fs-idp16124064" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp16086976">
+<problem id="fs-idp13810096">
+<para id="fs-idp20371552">From the data shown in Table 2 about demand for smart phones, calculate the point price elasticity of demand from: point B to point C (i.e. at point B), point D to point E (i.e. at point D), and point G to point H (at point G). Classify the elasticity at each point as elastic, inelastic, or unit elastic.</para><table id="Table_05_02" summary="For A, P = 60 and Q = 3,000. For B, P = 70 and Q = 2,800. For C, P = 80 and Q = 2,600. For D, P = 90 and Q = 2,400. For E, P = 100 and Q = 2,200. For F, P = 110 and Q = 2,000. For G, P = 120 and Q = 1,800. For H, P = 130 and Q = 1,600.">
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+
+<row>
+	<entry>Points</entry>
+	<entry>P</entry>
+	<entry>Q</entry>
+</row>
+</thead>
+
+      <tbody>
+        <row>
+          <entry>A</entry>
+          <entry>600</entry>
+          <entry>3,000</entry>
+        </row>
+
+        <row>
+          <entry>B</entry>
+          <entry>700</entry>
+          <entry>2,800</entry>
+        </row>
+
+        <row>
+          <entry>C</entry>
+          <entry>800</entry>
+          <entry>2,600 </entry>
+        </row>
+
+        <row>
+          <entry>D</entry>
+          <entry>900</entry>
+          <entry> 2,400</entry>
+        </row>
+
+        <row>
+          <entry>E </entry>
+          <entry>1000</entry>
+          <entry>2,200</entry>
+        </row>
+
+        <row>
+          <entry>F </entry>
+          <entry>1100</entry>
+          <entry>2,000 </entry>
+        </row>
+
+        <row>
+          <entry>G </entry>
+          <entry>1200</entry>
+          <entry>1,800</entry>
+        </row>
+
+        <row>
+          <entry>H </entry>
+          <entry>1300</entry>
+<entry>1,600</entry>
+        </row>
+      </tbody>
+    
+
+</tgroup>
+</table></problem>
+<solution id="fs-idp8787376"><para id="fs-idp19486576"><title>B to C</title>Ep = (% change in Qd/% change in P) x 100 = -7.1%/14.3% = 0.5. Demand is inelastic.</para><para id="fs-idm11912864"><title>D to E</title>Ep = (% change in Qd/% change in P) x 100 = -11.1%/8.3% = 0.74. Demand is still inelastic but not as inelastic as between B and C. It is becoming more elastic as price increases which is what we would expect.</para><para id="fs-idp17544896"><title>G to H</title>Ep = (% change in Qd/% change in P) x 100 = -11.1%/8.3% = 1.3. Demand is elastic.</para></solution>
+</exercise>
+</section>
+
+<section id="fs-idm18385184" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp18359552">
+<problem id="fs-idp7772192">
+<para id="fs-idm16908240">What is the formula for calculating elasticity? </para>
+</problem>
+</exercise>
+<exercise id="fs-idp21393520">
+<problem id="fs-idp6305984">
+<para id="fs-idm75959392">What is the price elasticity of demand? Can you explain it in your own words? </para>
+</problem>
+</exercise>
+<exercise id="fs-idp19511776">
+<problem id="fs-idp10293392">
+<para id="fs-idm25657376">What is the price elasticity of supply? Can you explain it in your own words? </para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm22494896" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp21036976">
+<problem id="fs-idm21582096">
+<para id="fs-idp15550176">Air travel in business class has an estimated elasticity of demand of 0.40 less than air travel in economy class, with an estimated price elasticity of 0.62. Why do you think this is the case?</para></problem>
+</exercise>
+<exercise id="fs-idp22382384">
+<problem id="fs-idp20937904">
+<para id="fs-idp17479632">What is the relationship between price elasticity and position on the demand curve? For example, as you move up the demand curve to higher prices and lower quantities, what happens to the measured elasticity? How would you explain that?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm10272" class="problems">
+<title>Problems</title>
+<exercise id="fs-idm24878656">
+<problem id="fs-idm16398528">
+<para id="fs-idm5772720">The equation for a demand curve is P = 48 – 3Q. What is the elasticity in moving from a quantity of 5 to a quantity of 6?</para></problem>
+</exercise>
+<exercise id="fs-idp17107200">
+<problem id="fs-idp18185280">
+<para id="fs-idp21392496">The equation for a demand curve is P = 2/Q. What is the elasticity of demand as price falls from 5 to 4? What is the elasticity of demand as the price falls from 9 to 8? Would you expect these answers to be the same?</para></problem>
+</exercise>
+</section>
+
+</content>
+<glossary>
+<definition id="fs-idm61561936">
+<term>elastic demand</term><meaning id="fs-idm96710288">when the elasticity of demand is greater than one, indicating a high responsiveness of quantity demanded or supplied to changes in price</meaning>
+</definition>
+<definition id="fs-idm24173824">
+<term>elastic supply</term><meaning id="fs-idm25832416"> when the elasticity of either supply is greater than one, indicating a high responsiveness of quantity demanded or supplied to changes in price</meaning>
+</definition>
+<definition id="fs-idm33564032">
+<term>elasticity</term><meaning id="fs-idm30931216"> an economics concept that measures responsiveness of one variable to changes in another variable</meaning>
+</definition>
+<definition id="fs-idp7341184">
+<term>inelastic demand</term><meaning id="fs-idm56193856">when the elasticity of demand is less than one, indicating that a 1 percent increase in price paid by the consumer leads to less than a 1 percent change in purchases (and vice versa); this indicates a low responsiveness by consumers to price changes</meaning>
+</definition>
+<definition id="fs-idm43731456">
+<term>inelastic supply</term><meaning id="fs-idm47192112">when the elasticity of supply is less than one, indicating that a 1 percent increase in price paid to the firm will result in a less than 1 percent increase in production by the firm; this indicates a low responsiveness of the firm to price increases (and vice versa if prices drop)
+</meaning>
+</definition>
+<definition id="fs-idm13676144">
+<term>price elasticity</term><meaning id="fs-idm41290704"> the relationship between the percent change in price resulting in a corresponding percentage change in the quantity demanded or supplied</meaning>
+</definition>
+<definition id="fs-idm116073520">
+<term>price elasticity of demand</term><meaning id="fs-idm37427392"> percentage change in the quantity <emphasis effect="italics">demanded</emphasis> of a good or service divided the percentage change in price</meaning>
+</definition>
+<definition id="fs-idm43138848">
+<term>price elasticity of supply</term><meaning id="fs-idm8551152"> percentage change in the quantity <emphasis effect="italics">supplied</emphasis> divided by the percentage change in price</meaning>
+</definition>
+<definition id="fs-idm23185328">
+<term>unitary elasticity</term><meaning id="fs-idm6079792"> when the calculated elasticity is equal to one indicating that a change in the price of the good or service results in a proportional change in the quantity demanded or supplied</meaning>
+</definition>
+</glossary>
+</document>

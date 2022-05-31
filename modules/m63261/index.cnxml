@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Economists Use Theories and Models to Understand Economic Issues</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63261</md:content-id>
+  <md:title>How Economists Use Theories and Models to Understand Economic Issues</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Interpret a circular flow diagram</item>
+<item>Explain the importance of economic theories and models</item>
+<item>Describe goods and services markets and labor markets</item>
+</list></md:abstract>
+  <md:uuid>97945bae-ad55-41c5-9015-43c57e254882</md:uuid>
+</metadata>
+
+<content>
+
+<figure id="CNX_Econ_C01_004">
+<title>John Maynard Keynes</title>
+      <media id="fs-idm83385920" alt="The image is a photograph of John Maynard Keynes.">
+        <image mime-type="image/jpeg" src="../../media/CNX_Econ_C01_004.jpg"/>
+      </media>
+      <caption>One of the most influential economists in modern times was John Maynard Keynes. (Credit: Wikimedia Commons)</caption>
+    </figure>
+
+<para id="fs-idp136951760"><term class="no-emphasis">John Maynard Keynes</term> (1883–1946), one of the greatest economists of the twentieth century, pointed out that economics is not just a subject area but also a way of thinking. Keynes, shown in Figure 1, famously wrote in the introduction to the Cambridge Economics Handbooks series: “[Economics] is a method rather than a doctrine, an apparatus of the mind, a technique of thinking, which helps its possessor to draw correct conclusions.” (Keynes: 1922: v.) In other words, economics teaches you how to think, not what to think. </para><note id="fs-idp57248112" class="economics linkup"><para id="fs-idp159987488">Watch this <link url="http://openstaxcollege.org/l/Keynes">video</link> about John Maynard Keynes and his influence on economics.</para>
+        <media id="fs-idp53904272" alt="QR Code representing a URL">
+          <image mime-type="image/png" src="../../media/Keynes.png" width="130"/>
+        </media>
+    </note><para id="fs-idp34661824">Economists view the world differently to practitioners of other disciplines.  They analyze issues and problems using economic theories that are based on particular <term>assumptions</term> about human behavior, that are different from the assumptions an anthropologist or psychologist might use. A <term>theory</term> is a simplified representation of how two or more variables interact with each other.   The purpose of a theory is to take a complex, real-world issue and simplify it down to its essentials. If done well, this enables the analyst to understand the issue and any problems around it. A good theory is simple enough to be understood, while complex enough to capture the key features of the object or situation being studied. </para><para id="fs-idp129892576">Sometimes economists use the term <term>model</term> instead of theory.  Strictly speaking, a theory is a more abstract representation, while a model is more applied or empirical representation.  Models are used to test theories, but for this course we will use the terms interchangeably. </para>
+<code id="eip-109" display="block"><media id="fs-idm00000003" alt="The image is a photograph of a model.">
+        <image mime-type="image/jpeg" src="../../media/airplane.jpg"/>
+      </media><caption><term>Figure 2:</term> A model of a fighter jet (Credit: FlickR Creative Commons by 2.0)</caption></code><para id="fs-idp7072">For example, an architect who is planning a major office building will often build a small-scale physical model to show how the entire city block will look after the new building is constructed. Companies often build models of their new products, which are more rough and unfinished than the final product will be, but can still demonstrate how the new product will work. Motor and aircraft manufacturers also usually first design and build small-scale models to get some idea of the end product. In the same way economics relies on simple models to explain more complex ideas.
+ </para><section id="eip-34"><title>Economics is a social science</title><para id="eip-993">
+Economics is a social science since it is concerned with the choices people (society) make. Economics examines the behaviour of individuals (consumers) and institutions (firms and government) engaged in economic activity, that is, production, trade, consumption and the generation of income. Economists seek principles/generalisations about the way individuals and institutions behave. Economic principles and theories are sensible statements about economic behaviour or the economy.
+</para><para id="eip-777">Economics has its own special words (terminology) which you should become familiar with. This is why a special glossary is provided at the end of most sections and chapters in this book. In many instances there may be different words for the same concept. For example, laws, principles, theories and models all mean the same thing. They are generalizations about the economic behavior of individuals and institutions. Since there are billions of people and they are all unique, it is firstly impossible to study each person's behavior and, secondly, it is equally impossible to understand or predict each one's choices/decisions with a great degree of accuracy. We can only get a general idea or understanding of an individuals' behavior. That is the best we can do. It is in this sense that economics is different from the natural sciences such as physics, chemistry and biology. In these disciplines it is possible to achieve at least close to 100% accuracy and predictability in experiments. And there is generally only one correct answer to scientific questions. This is not the case in economics since people are all different and so their behavior is not 100% predictable.   </para><para id="eip-496">Assumptions help economists to generalize.The most important assumption in economics that allows economists to draw sensible conclusions about peoples' behavior is that of "ceteris paribus". This is a Latin phrase meaning "all else being equal" or "other things held constant". So, for example, we could predict that Sifiso will have more income to spend if he gets a promotion, ceteris paribus (that is, assuming that nothing unusual happens that will prevent this such as, for example, getting ill and having to spend more on health care). The ceteris paribus assumption allows us to focus just on the issues we are interested in without complicating things by ignoring all else that could affect the relationship. </para><para id="eip-161">Since economics is a social science, allowance has to be made for the fact that people may perceive things differently. So people, because they have their own beliefs and attitudes, often make different choices and decisions even if they are faced with the same situation. For example, a salary increase of R1000 per month might be regarded as very satisfactory for a low income earner, but a very rich person would consider the same R1000 as very unsatisfactory. And so economics can be divided into <term>normative economics</term> (to do with opinions and subjective beliefs) and <term>positive economics</term>. Positive economics has to do with economic facts. In our example of the R1000 salary increase the fact is that all workers (rich and poor) got the same R1000 increase. That poor workers regarded the increase as satisfactory but the rich though it not good enough is a normative economic issue.  
+
+
+ </para><para id="eip-911">The laws, principles, theories and models that are produced by economists with the help of generalizations such as "ceteris paribus" may be expressed in different ways: Written descriptions, tables or schedules, graphs and pictures (images). Economists are particularly fond of graphs. However, images or simple pictures such as the circular flow model of economic activity also tell a story. </para></section><para id="fs-idp123790320">A good model to start with in economics is the <term>circular flow diagram</term>, which is shown in Figure 3. It pictures the economy as consisting of two groups—households and firms—that interact in two markets: the <term>goods and services market</term> in which firms sell and households buy and the <term>labor market</term> in which households sell labor, capital and land (resources) to business firms or other employees. </para><code id="eip-658" display="block"><media id="x216" alt="The image is of the 2 sector circular flow model.">
+        <image mime-type="image/jpeg" src="../../media/Two_sector_circular_flow_diagram.jpg"/>
+      </media><caption><term>Figure 3:</term> The circular flow diagram shows how households and firms interact in the goods and services market, and in the factor (resources) market. The direction of the arrows shows that in the goods and services market, households receive goods and services and pay firms for them. In the factor (resources) market, households provide labor and receive payment from firms through wages, salaries, and benefits.They also receive rent for their land, and interest payments for capital.This is the simple 2-sector (households and firms) circular flow model.</caption></code><para id="fs-idp5860544">Of course, in the real world, there are many different markets for goods and services and markets for the different types of factors of production. The circular flow diagram simplifies this to make the picture easier to grasp. In the diagram, firms produce goods and services, which they sell to households in the product market in return for revenues. Households sell their labor, land,capital and entrepreneurial skill to firms in the factor market in return for wages/salaries, rent, interest and profit respectively. This particular model does not even show the product and factor markets. Go ahead and draw them in to show a 2-sector, 2-market market economy.  </para><para id="fs-idp44237760">This version of the circular flow model is stripped down to the essentials, but it has enough features to explain how the the two main sectors of any market economy interact through the product and factor markets.  We could easily add details to this basic model if we wanted to introduce more real-world elements, like financial markets, governments, and interactions with the rest of the globe (imports and exports). </para><para id="fs-idp5279008">Economists have their own methods or tools to carry out their investigations. When they see an economic issue or problem, they go through the theories they know to see if they can find one that fits. Then they use the theory to see if it fits the issue or problem. In economics, theories may be expressed as diagrams, graphs, or even as mathematical equations. (Do not worry. In this course, we will mostly use only graphs.) Economists do not figure out the answer to the problem first and then draw the graph to illustrate. Rather, they use the graph of the theory to help them figure out the answer. Although at the introductory level, you can sometimes figure out the right answer without applying a model, if you keep studying economics, before too long you will run into issues and problems that you will need to graph to solve. Both micro and macroeconomics are explained in terms of theories and models. The most well-known theories are probably those of supply and demand, but you will learn a number of others. </para><code id="eip-726" display="block"><media id="fs-idm00000005" alt="The image is of ec man dragging his tools.">
+        <image mime-type="image/jpeg" src="../../media/econman3.1.jpeg"/>
+      </media><caption><term>Figure 4:</term> Some economics tools.</caption></code><section id="fs-idp14982192" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp896016">Economists analyze problems differently than do other disciplinary experts. The main tools economists use are economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a tool for determining the answer. </para>
+</section>
+
+<section id="fs-idp63400096" class="self-check-questions">
+ <title>Self-Check Questions</title>
+<exercise id="fs-idp45666752">
+<problem id="fs-idp11708016">
+<para id="fs-idm77929408">Suppose we extend the simple 2-sector circular flow model (complete with product and factor markets) to add imports and exports. Copy the circular flow diagram onto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of imports, exports, and the payments for each on your diagram. </para></problem>
+    <solution id="fs-idp108371744"><para id="fs-idp111176176">Draw a box outside the original circular flow to represent the foreign country. Draw an arrow from the foreign country to firms, to represents imports. Draw an arrow in the reverse direction representing payments for imports. Draw an arrow from firms to the foreign country to represent exports. Draw an arrow in the reverse direction to represent payments for imports. </para></solution>
+  </exercise>
+<exercise id="fs-idp29826816">
+<problem id="fs-idp122119728">
+<para id="fs-idm21013600">What is an example of a problem in the world today, not mentioned in the chapter, that has an economic dimension? </para>
+    </problem>
+    <solution id="fs-idm3034480"><para id="fs-idp108443760">There are many such problems. Consider the AIDS epidemic. Why are so few AIDS patients in Africa and Southeast Asia treated with the same drugs that are effective in the United States and Europe? It is because neither those patients nor the countries in which they live have the resources to purchase the same drugs. </para></solution>
+  </exercise>
+</section>
+
+<section id="fs-idm39091952" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp53380272">
+<problem id="fs-idp142347344">
+<para id="fs-idm117917488">How did John Maynard Keynes define economics? </para>
+    </problem>
+  </exercise>
+<exercise id="fs-idp65667184">
+<problem id="fs-idm37441696">
+<para id="fs-idp76680720">Are households primarily buyers or sellers in the goods and services market? In the labor market? </para>
+    </problem>
+  </exercise>
+<exercise id="fs-idp140401216">
+<problem id="fs-idp99354848">
+<para id="fs-idp81514080">Are firms primarily buyers or sellers in the goods and services market? In the labor market? </para>
+    </problem>
+  </exercise><para id="eip-295"><title>References</title>Keynes, J.M. 1922. Introduction to the Cambridge Economics Handbooks series. In: Robertson, D.H. 1922. Money. (Cambridge economics handbooks series). Cambridge: Cambridge University Press. page v.</para>
+</section>
+
+</content>
+
+<glossary>
+<definition id="fs-idm75162032"><term>circular flow diagram</term><meaning id="fs-idp10695984">a diagram that views the economy as consisting of households and firms interacting in a goods and services market and a labor market</meaning></definition>
+<definition id="fs-idm89016528"><term>goods and services market</term><meaning id="fs-idm44435984">a market in which firms are sellers of what they produce and households are buyers</meaning></definition>
+<definition id="fs-idm117438944"><term>labor market</term><meaning id="fs-idm11304864">the market in which households sell their labor as workers to business firms or other employers</meaning></definition>
+<definition id="fs-idm79176368"><term>model</term><meaning id="fs-idp7551072">see theory</meaning></definition>
+<definition id="fs-idm76299488"><term>theory</term><meaning id="fs-idm200052272">a representation of an object or situation that is simplified while including enough of the key features to help us understand the object or situation</meaning></definition>
+</glossary>
+
+</document>

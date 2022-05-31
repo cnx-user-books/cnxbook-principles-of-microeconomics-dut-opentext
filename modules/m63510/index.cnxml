@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Elasticity in Areas Other Than Price</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63510</md:content-id>
+  <md:title>Elasticity in Areas Other Than Price</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+    <list>
+      <item>Calculate the income elasticity of demand and the cross-price elasticity of demand</item>
+      <item>Calculate the elasticity in labor and financial capital markets through an understanding of the elasticity of labor supply and the elasticity of savings</item>
+<item>Apply concepts of price elasticity to real-world situations</item>
+    </list></md:abstract>
+  <md:uuid>a822a309-b8c3-426b-97ab-f0358b38987e</md:uuid>
+</metadata>
+
+<content>
+  
+<code id="eip-295" display="block"><media id="x268" alt="The two graphs show a highly elastic demand curve (on the left) and highly inelastic demand curve (on the right).">
+<image mime-type="image/jpg" src="../../media/elastichman.jpeg"/>
+</media><caption><term>Figure 1.</term></caption></code><para id="fs-idm15207792">The basic idea of elasticity—how a percentage change in one variable causes a percentage change in another variable—does not apply only to the responsiveness of supply and demand to changes in the price of a product. Recall that quantity demanded (Qd) depends on income, tastes and preferences, the prices of related goods, and so on, as well as price. Similarly, quantity supplied (Qs) depends on the cost of production, and so on, as well as price. Elasticity can be measured for any determinant of supply and demand, not just the price.</para><section id="fs-idp18492528">
+<title>Income Elasticity of Demand</title><para id="fs-idp64486928">The <term class="no-emphasis">income elasticity of demand</term> (Ey) is the percentage change in quantity demanded divided by the percentage change in income (Y). So this elasticity coefficient measures the responsiveness of quantity demanded to changes in income.</para><equation id="eip-482"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Income elasticity of demand (Ey)</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mtext>% change in quantity demanded</m:mtext></m:mrow><m:mrow><m:mtext>% change in income</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp64945824">For most products, most of the time, the income elasticity of demand is positive: that is, a rise in income will cause an increase in the quantity demanded. This pattern is common enough that these goods are referred to as <term class="no-emphasis">normal goods</term>. However, for a few goods, an increase in income means that one might purchase less of the good; for example, those with a higher income might buy fewer burgers, because they are buying more steak instead, or those with a higher income might buy less cheap wine and more imported beer. When the income elasticity of demand is negative, the good is called an <term class="no-emphasis">inferior good</term>.</para><para id="fs-idp42940608">The concepts of normal and inferior goods were introduced in the Demand and Supply model. A higher level of income for a normal good causes a demand curve to shift to the right for a normal good, which means that the income elasticity of demand is positive. How far the demand shifts depends on the income elasticity of demand. A higher income elasticity means a larger shift. However, for an inferior good, that is, when the income elasticity of demand is negative, a higher level of income would cause the demand curve for that good to shift to the left. Again, how much it shifts depends on how large the (negative) income elasticity is.</para><para id="eip-91">Income elasticity (Ey) is interpreted according to the same scale as that used to interpret price elasticity (Ep). If the absolute (i.e. ignoring negative values) value of Ey exceeds 1, demand is income elastic. If the absolute value of Ey is less than 1 demand is income inelastic and if the absolute value of Ey = 1, demand is income unit elastic.</para></section>
+
+<section id="fs-idp30849728">
+<title>Cross-Price Elasticity of Demand</title><para id="fs-idp3578528">A change in the price of one good can shift the quantity demanded for another good. If the two goods are complements, like bread and peanut butter, then a drop in the price of one good will lead to an increase in the quantity demanded of the other good. However, if the two goods are substitutes, like plane tickets and train tickets, then a drop in the price of one good will cause people to substitute toward that good, and to reduce consumption of the other good. Cheaper plane tickets lead to fewer train tickets, and vice versa.</para><para id="fs-idp33004560">The <term>cross-price elasticity of demand</term> (Ec) puts some meat on the bones of these ideas. The term “cross-price” refers to the idea that the price of one good is affecting the quantity demanded of a different good. Specifically, the cross-price elasticity of demand is the percentage change in the quantity of good A that is demanded as a result of a percentage change in the price of good B.</para><equation id="eip-840"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Cross-price elasticity of demand (Ec)</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mtext>% change in Qd of good A</m:mtext></m:mrow><m:mrow><m:mtext>% change in price of good B</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm9568208">Substitute goods have positive cross-price elasticities of demand: if good A is a substitute for good B, like coffee and tea, then a higher price for B will mean a greater quantity consumed of A. Complement goods have negative cross-price elasticities: if good A is a complement for good B, like coffee and sugar, then a higher price for B will mean a lower quantity consumed of A.</para><para id="eip-562">Cross-price elasticity (Ec) is interpreted according to the same scale as that used to interpret price elasticity (Ep) and income elasticity (Ey). If the absolute (i.e. ignoring negative values) value of Ec exceeds 1, demand for A is cross-price elastic with respect to change in price of related good B. If the absolute value of Ec is less than 1, then demand for A is cross-price inelastic with respect to change in price of related good B, and if the absolute value of Ey = 1, then demand for A is cross-price unit elastic with respect to change in price of related good B.</para>
+</section>
+
+<section id="fs-idm61553136">
+<title>Expanding the Concept of Elasticity</title><para id="fs-idm3688768">The elasticity concept does not even need to relate to a typical supply or demand curve at all. For example, imagine that you are studying whether the Receiver of Revenue should spend more money on auditing tax returns. The question can be framed in terms of the elasticity of tax collections with respect to spending on tax enforcement; that is, what is the percentage change in tax collections derived from a percentage change in spending on tax enforcement? </para><para id="fs-idm46502144">With all of the elasticity concepts that have just been described, some of which are listed in Table 1, the possibility of confusion arises. When you hear the phrases “elasticity of demand” or “elasticity of supply,” they refer to the elasticity with respect to price. Sometimes, either to be extremely clear or because a wide variety of elasticities are being discussed, the elasticity of demand or the demand elasticity will be called the price elasticity of demand or the “elasticity of demand with respect to price.” Similarly, elasticity of supply or the supply elasticity is sometimes called, to avoid any possibility of confusion, the price elasticity of supply or “the elasticity of supply with respect to price.” But in whatever context elasticity is spoken about, the idea always refers to percentage change in one variable, almost always a price or money variable, and how it causes a percentage change in another variable, typically a quantity variable of some kind.</para><table id="Table_05_08" summary="Income elasticity of demand = percentage change in Qd divided by percentage change in income. Cross-price = percentage change in Qd of good A divided by percentage change in price of good B. Wage elasticity of labor supply = percentage change in quantity of labor supplied divided by percentage change in wage. Wage elasticity of labor demand = percentage change in quantity of labor demanded divided by percentage change in wage. Interest rate elasticity of savings = percentage change in quantity of savings divided by percentage change in interest rate. Interest rate elasticity of borrowing = percentage change in quantity of borrowing divided by percentage change in interest rate.">
+   <tgroup cols="1">
+<colspec colnum="1" colname="col1"/>
+
+            <tbody>
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Income elasticity of demand</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>% change in Qd</mtext><mtext>% change in income</mtext></mfrac></mtd></mtr></mtable></math></entry>
+        </row>
+
+        <row>
+         <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Cross-price elasticity of demand</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>% change in Qd of good A</mtext><mtext>% change in price of good B</mtext></mfrac></mtd></mtr></mtable></math></entry>
+                  </row>
+
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Wage elasticity of labor supply</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>% change in quantity of labor supplied</mtext><mtext>% change in wage</mtext></mfrac></mtd></mtr></mtable></math></entry>
+        </row>
+
+<row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Wage elasticity of labor demand</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>% change in quantity of labor demanded</mtext><mtext>% change in wage</mtext></mfrac></mtd></mtr></mtable></math></entry>
+        </row>
+
+<row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Interest rate elasticity of savings</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>% change in quantity of savings</mtext><mtext>% change in interest rate</mtext></mfrac></mtd></mtr></mtable></math></entry>
+        </row>
+
+<row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Interest rate elasticity of borrowing</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>% change in quantity of borrowing</mtext><mtext>% change in interest rate</mtext></mfrac></mtd></mtr></mtable></math></entry>
+        </row>
+      </tbody>
+    </tgroup>
+    <caption>Formulas for Calculating Elasticity</caption>
+</table>
+
+</section>
+
+<section id="fs-idp5888272" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp34455520">Elasticity is a general term, referring to percentage change of one variable divided by percentage change of a related variable that can be applied to many economic connections. For instance, the income elasticity of demand is the percentage change in quantity demanded divided by the percentage change in income. The cross-price elasticity of demand is the percentage change in the quantity demanded of a good divided by the percentage change in the price of another good. Elasticity applies in labor markets and financial capital markets just as it does in markets for goods and services. The wage elasticity of labor supply is the percentage change in the quantity of hours supplied divided by the percentage change in the wage. The elasticity of savings with respect to interest rates is the percentage change in the quantity of savings divided by the percentage change in interest rates.</para>
+</section>
+<section id="fs-idm1959664" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp34138144">
+<problem id="fs-idp33928448">
+<para id="fs-idp31269408">What would the petrol price elasticity of supply mean to taxi bosses?</para></problem>
+<solution id="fs-idp14008464"><para id="fs-idp23945824">The percentage change in quantity supplied as a result of a given percentage change in the price of petrol.</para></solution>
+</exercise>
+<exercise id="fs-idp23662496">
+<problem id="fs-idp55751872">
+<para id="fs-idp7214896">The average annual income rises from R375,000 to R570,000, and the quantity of bread consumed in a year by the average person falls from 30 loaves to 22 loaves. What is the income elasticity (using the point elasticity formula) of bread consumption? Is bread a normal or an inferior good?</para></problem>
+<solution id="fs-idp30798912"><equation id="fs-idp41054912"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Percentage change in  quantity demanded</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>[(change in quantity)/(original quantity)] × 100</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>[22 – 30]/[30] × 100</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>–8/30 × 100</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>–26.67</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Percentage change in income</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>[(change in income)/(original income)] × 100</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>[570,000 – 375,000]/[375,000] × 100</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>195,000/375,000 × 100</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>52.00</m:mtext></m:mtd></m:mtr></m:mtable></m:math> 
+
+</equation><para id="fs-idm39209952">Ey = % change in Qd/% change in income = -26.67%52% = -0.51. In this example, bread is an inferior good because its consumption falls as income rises. Also the absolute value of Ey (0.51) is less than 1 so demand for bread is also income inelastic (not very sensitive to income changes).</para></solution>
+</exercise>
+<exercise id="fs-idp23027184">
+<problem id="fs-idp269648">
+<para id="fs-idm59084144">Suppose the cross-price elasticity of apples with respect to the price of oranges is 0.4, and the price of oranges falls by 3%. What will happen to the demand for apples assuming apples and oranges are regarded as substitutes? </para></problem>
+<solution id="fs-idp26945024"><para id="fs-idp2851312">The formula for cross-price elasticity is % change in Qd for apples / % change in P of oranges. Multiplying both sides by % change in P of oranges yields:</para>
+<para id="fs-idm37014112">% change in Qd for apples = cross-price elasticity X% change in P of oranges</para>
+<para id="fs-idm32156896">= 0.4 × (3%) = 1.2%, or a 1.2 % increase in quantity demanded of apples (positive Ec indicates a substitute relationship between apples and oranges).</para></solution>
+</exercise>
+</section>
+
+<section id="fs-idm20834400" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp7802224">
+<problem id="fs-idp10574576">
+<para id="fs-idm7882528">What is the formula for the income elasticity of demand?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp23951072">
+<problem id="fs-idp20983552">
+<para id="fs-idp31125856">What is the formula for the cross-price elasticity of demand?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idp21582496" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp13717616">
+<problem id="fs-idp22517328">
+<para id="fs-idp21342816">Normal goods are defined as having a positive income elasticity. We can divide normal goods into two types: those whose income elasticity is less than one and those whose income elasticity is greater than one. Think about products that would fall into each category. Can you come up with a name for each category?</para></problem>
+</exercise>
+<exercise id="fs-idp23786624">
+<problem id="fs-idp14319024">
+<para id="fs-idp12195264">Suppose you could buy shoes one at a time, rather than in pairs. What do you predict the cross-price elasticity for left shoes and right shoes would be?</para>
+</problem>
+</exercise>
+</section>
+
+</content>
+<glossary>
+<definition id="fs-idp36306160">
+<term>cross-price elasticity of demand</term><meaning id="fs-idp1493216"> the percentage change in the quantity of good A that is demanded as a result of a percentage change in good B</meaning>
+</definition>
+<definition id="fs-idp14346144">
+<term>elasticity of savings</term><meaning id="fs-idm1516592"> the percentage change in the quantity of savings divided by the percentage change in interest rates</meaning>
+</definition>
+<definition id="fs-idm27826480">
+<term>wage elasticity of labor supply</term><meaning id="fs-idp2940544"> the percentage change in hours worked divided by the percentage change in wages</meaning>
+</definition>
+</glossary>
+</document>
