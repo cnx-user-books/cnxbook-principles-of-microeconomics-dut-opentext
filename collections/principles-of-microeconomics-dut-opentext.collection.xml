@@ -1,311 +1,91 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Alex Van der Merwe">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12097</md:content-id>
-  <md:title>PRINCIPLES OF MICROECONOMICS - DUT OPENTEXT</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  <md:uuid>cc310c27-08a2-4efb-b27a-f003512d063d</md:uuid>
-<md:slug>principles-of-microeconomics-dut-opentext</md:slug>
-</metadata>
-
+    <md:content-id>col12097</md:content-id>
+    <md:title>PRINCIPLES OF MICROECONOMICS - DUT OPENTEXT</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>cc310c27-08a2-4efb-b27a-f003512d063d</md:uuid>
+    <md:slug>principles-of-microeconomics-dut-opentext</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 1 - Economics?</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63266"/>
-        
-      
-    
-    
-      <col:module document="m63268"/>
-        
-      
-    
-    
-      <col:module document="m63257"/>
-        
-      
-    
-    
-      <col:module document="m63261"/>
-        
-      
-    
-    
-      <col:module document="m63263"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 2 - Economics, the science of choice</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63497"/>
-        
-      
-    
-    
-      <col:module document="m63498"/>
-        
-      
-    
-    
-      <col:module document="m63499"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 3 - Demand and Supply</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63500"/>
-        
-      
-    
-    
-      <col:module document="m63503"/>
-        
-      
-    
-    
-      <col:module document="m63504"/>
-        
-      
-    
-    
-      <col:module document="m63505"/>
-        
-      
-    
-    
-      <col:module document="m63506"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 4 - Elasticity</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63507"/>
-        
-      
-    
-    
-      <col:module document="m63508"/>
-        
-      
-    
-    
-      <col:module document="m63509"/>
-        
-      
-    
-    
-      <col:module document="m63511"/>
-        
-      
-    
-    
-      <col:module document="m63510"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 5 - Production and Cost</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63512"/>
-        
-      
-    
-    
-      <col:module document="m63513"/>
-        
-      
-    
-    
-      <col:module document="m63515"/>
-        
-      
-    
-    
-      <col:module document="m63516"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 6 - Perfect Competition</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63518"/>
-        
-      
-    
-    
-      <col:module document="m63519"/>
-        
-      
-    
-    
-      <col:module document="m63520"/>
-        
-      
-    
-    
-      <col:module document="m63521"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 7 - Monopoly</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63529"/>
-        
-      
-    
-    
-      <col:module document="m63530"/>
-        
-      
-    
-    
-      <col:module document="m63531"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 8 - Monopolistic Competition and Oligopoly</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63532"/>
-        
-      
-    
-    
-      <col:module document="m63533"/>
-        
-      
-    
-    
-      <col:module document="m63534"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Appendix</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63536"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Chapter 1 - Economics?</md:title>
+      <col:content>
+        <col:module document="m63266"/>
+        <col:module document="m63268"/>
+        <col:module document="m63257"/>
+        <col:module document="m63261"/>
+        <col:module document="m63263"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 2 - Economics, the science of choice</md:title>
+      <col:content>
+        <col:module document="m63497"/>
+        <col:module document="m63498"/>
+        <col:module document="m63499"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 3 - Demand and Supply</md:title>
+      <col:content>
+        <col:module document="m63500"/>
+        <col:module document="m63503"/>
+        <col:module document="m63504"/>
+        <col:module document="m63505"/>
+        <col:module document="m63506"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 4 - Elasticity</md:title>
+      <col:content>
+        <col:module document="m63507"/>
+        <col:module document="m63508"/>
+        <col:module document="m63509"/>
+        <col:module document="m63511"/>
+        <col:module document="m63510"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 5 - Production and Cost</md:title>
+      <col:content>
+        <col:module document="m63512"/>
+        <col:module document="m63513"/>
+        <col:module document="m63515"/>
+        <col:module document="m63516"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 6 - Perfect Competition</md:title>
+      <col:content>
+        <col:module document="m63518"/>
+        <col:module document="m63519"/>
+        <col:module document="m63520"/>
+        <col:module document="m63521"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 7 - Monopoly</md:title>
+      <col:content>
+        <col:module document="m63529"/>
+        <col:module document="m63530"/>
+        <col:module document="m63531"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 8 - Monopolistic Competition and Oligopoly</md:title>
+      <col:content>
+        <col:module document="m63532"/>
+        <col:module document="m63533"/>
+        <col:module document="m63534"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendix</md:title>
+      <col:content>
+        <col:module document="m63536"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
